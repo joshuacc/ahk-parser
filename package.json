@@ -1,0 +1,30 @@
+{
+  "name": "ahk-parser",
+  "version": "0.1.0",
+  "description": "A parser for AutoHotkey",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuacc/ahk-parser.git"
+  },
+  "keywords": [
+    "autohotkey",
+    "ahk",
+    "parser"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshuacc/ahk-parser/issues"
+  },
+  "homepage": "https://github.com/joshuacc/ahk-parser#readme",
+  "devDependencies": {
+    "@jest/globals": "^29.3.1",
+    "jest": "^29.3.1",
+    "ts-jest": "^29.0.3",
+    "typescript": "^4.8.4"
+  }
+}
